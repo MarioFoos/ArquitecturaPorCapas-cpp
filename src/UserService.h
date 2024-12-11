@@ -3,6 +3,7 @@
 
 #include "UserDao.h"
 
+// Capa de Negocio. Servicio que usa el DAO
 class UserService
 {
 	private:

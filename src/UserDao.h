@@ -7,7 +7,7 @@
 
 using namespace std;
 
-
+// Capa de persistencia que conecta con la capa de datos
 class UserDao
 {
 	private:
@@ -19,7 +19,6 @@ class UserDao
 		virtual ~UserDao(){};
 
 		list<string> getAllUsers();
-
 };
 
 #endif /* USERDAO_H_ */

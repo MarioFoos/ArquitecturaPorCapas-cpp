@@ -5,3 +5,5 @@ Aunque la estructura en capas no implica un modelo fijo de capas, sí hay varias
 - Capa de aplicación
 - Capa de persistencia
 - Capa de datos
+
+https://diardon.wordpress.com/2024/12/11/arquitectura-en-capas-layered-architecture-con-ejemplo-en-c/
