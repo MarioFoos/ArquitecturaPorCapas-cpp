@@ -10,7 +10,7 @@ class UserService
 		UserDao *userDao;
 	public:
 		UserService(ifstream* is);
-		virtual ~UserService(){};
+		virtual ~UserService();
 
 		list<string> fetchAllUsers();
 };
